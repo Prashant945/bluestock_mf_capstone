@@ -1,4 +1,4 @@
 # bluestock_mf_capstone
 My First Capstone Project
 <br>
-Author - Prashant Agarwal
+Author - Prashant Agarwal(bluestock capstone project)
