@@ -1,0 +1,10 @@
+ # Data Quality Summary
+
+    # AMFI code validation
+    total in fm_array: 40
+    total in nh_array: 46000
+    match_code:40
+    missedin_NAV: 0
+    Extras in NAV:0
+
+    Status: all code validated if missedin NAV is zero else some code is missing 
